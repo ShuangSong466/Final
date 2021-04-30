@@ -1,7 +1,11 @@
+https://youtu.be/ay3bJZxK3zQ
+
 
 https://user-images.githubusercontent.com/73319539/116725925-84bee600-a9da-11eb-9db6-c858afe7d1f8.mp4
 
-# Final
+
+Presentation
+＃ 最终的：https://youtu.be/ay3bJZxK3zQhttps://youtu.be/ay3bJZxK3zQ
 GitHub ：https://github.com/ShuangSong466/Final/blob/main/test.py
 
 I used open-cv to realize simple gesture recognition. The knowledge I mainly use is opencv, basic python syntax, and basic knowledge of image processing.
